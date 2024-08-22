@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Grass
+  - Water
+  - River
+  - Sand
+  - Dirt
+  - Stone
+  - nectar
+  - boundary
+  - Hunter
+  - Agent
+  - AlphaHunter
+  - RunArea
+  - BearArea
+  - WolfArea
+  - DeerBase
+  - HorseBase
+  - WolfBase
+  - TigerBase
+  - BearBase
+  - RewardArea
+  - GrassArea
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - HexTile
+  - Character
+  - 
+  - 
+  - 
+  - CatchArea
+  - CaughtArea
+  - EatingCollision
+  - EatenCollision
+  - 
+  - Boundary
+  - Grasses
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
